@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/rolas/NetBeansProjects/CRUDSQLite/src/crudsqlite/model/Estudante.java</file>
+            <file>file:/home/rolas/NetBeansProjects/CRUDSQLite/src/crudsqlite/model/ConexaoSQLite.java</file>
+            <file>file:/home/rolas/NetBeansProjects/CRUDSQLite/src/crudsqlite/view/EstudanteView2.java</file>
+            <file>file:/home/rolas/NetBeansProjects/CRUDSQLite/src/crudsqlite/controller/EstudanteController.java</file>
+            <file>file:/home/rolas/NetBeansProjects/CRUDSQLite/src/crudsqlite/view/EstudanteView3.java</file>
+            <file>file:/home/rolas/NetBeansProjects/CRUDSQLite/src/crudsqlite/view/EstudanteView.java</file>
+            <file>file:/home/rolas/NetBeansProjects/CRUDSQLite/src/crudsqlite/teste/TesteEstudanteDAO.java</file>
+            <file>file:/home/rolas/NetBeansProjects/CRUDSQLite/src/crudsqlite/model/EstudanteDAO.java</file>
+        </group>
+    </open-files>
+</project-private>
